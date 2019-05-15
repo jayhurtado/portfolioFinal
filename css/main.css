@@ -76,3 +76,11 @@
 .fab {
     color: blue;
 }
+
+.lessImportant {
+    color: blue;
+}
+
+.important {
+    font-weight: bold;
+}
